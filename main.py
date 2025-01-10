@@ -24,3 +24,7 @@ def func_ch_v():
 
 def func16():
     print('Arduino')
+
+
+def func14():
+    print('AutoHotKey')

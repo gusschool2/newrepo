@@ -16,3 +16,7 @@ def func2():
 
 def print_PL():
     print("WhiteSpace is my favourite programming language")
+
+
+def kecha_func():
+    print('akim')

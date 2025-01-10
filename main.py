@@ -6,6 +6,10 @@ def func1():
     print('Python')
 
 
+def func4():
+    print('C#')
+
+
 def func2():
     print("C++")
 

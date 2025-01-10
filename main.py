@@ -4,3 +4,7 @@ def func1():
 
 def func2():
     print("C++")
+
+
+def print_PL():
+    print("WhiteSpace is my favourite programming language")

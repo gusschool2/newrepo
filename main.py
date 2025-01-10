@@ -20,3 +20,15 @@ def print_PL():
 
 def func100():
     print('Java script')
+
+
+def func_ch_v():
+    print('Java')
+
+
+def func16():
+    print('Arduino')
+
+
+def func14():
+    print('AutoHotKey')
